@@ -1,2 +1,2 @@
-# proC24
-game
+# Geologist
+Geologist Project
